@@ -1,2 +1,2 @@
-# IBM-Project-20086-1659712352
-Personal Expense Tracker Application
+# IBM-Project-35247-1660283043
+Retail Store Stock Inventory Analytics
